@@ -3292,6 +3292,7 @@ span.teaser {
 .text-light h5,
 .text-light h6 {
     color: #fff
+    
 }
 
 .dark h1,
@@ -3301,6 +3302,9 @@ span.teaser {
 .dark h5,
 .dark h6 {
     color: #fff
+}
+.text-light h1{
+    font-size: 40px;
 }
 
 .de_light .text-light h1,
