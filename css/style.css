@@ -12861,14 +12861,14 @@ body.de_light::-webkit-scrollbar-thumb {
     color: #211dc2;
 }
 
-/* Change the width of the three columns to 100%
+
 
 @media only screen and (max-width: 600px) {
     .columns {
         width: 100%;
     }
 }
-*/
+
 .image-source-link{
     display: none;
 }
