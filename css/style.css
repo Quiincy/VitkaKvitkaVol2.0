@@ -14,7 +14,7 @@ html {
     overflow-x: hidden;
     padding: 0;
     margin: 0;
-    background: #fff;
+    background: #111;
 }
 
 body {
@@ -40,8 +40,8 @@ body .owl-stage .owl-item {
 }
 
 #wrapper {
-    overflow: hidden;
-    position: relative
+    height: auto;
+
 }
 
 .de-navbar-left #wrapper {
@@ -12862,9 +12862,13 @@ body.de_light::-webkit-scrollbar-thumb {
 }
 
 /* Change the width of the three columns to 100%
-(to stack horizontally on small screens) */
+
 @media only screen and (max-width: 600px) {
     .columns {
         width: 100%;
     }
+}
+*/
+.image-source-link{
+    display: none;
 }
