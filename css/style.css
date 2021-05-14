@@ -863,9 +863,9 @@ section.dark {
 
 .section-fixed {
     position: fixed;
-    width: 100%;
-    min-height: 100%;
-    height: auto
+    width: 100;
+    min-height: 100vh;
+    height: 100vh;
 }
 
 .full-height {
@@ -8705,7 +8705,7 @@ body.dark-mode {
 }
 
 .vertical-center {
-    min-height: 100%;
+    min-height: 100vh;
     display: flex;
     align-items: center
 }
